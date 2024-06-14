@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "jj",
+      "image": "https://picsum.photos/200/300",
+      "price": 21,
+      "desc": "1",
+      "id": "cI8KyQa"
+    },
+    {
+      "name": "loc1116",
+      "image": "https://picsum.photos/200",
+      "price": 9,
+      "desc": "12345678",
+      "id": "_MDWi70"
+    }
+  ],
+  "users": [
+    {
+      "email": "huuloc@gmail.com",
+      "password": "$2a$10$/Mky.2d7f/AXeiU72gdR5uA3FjB86xRGs26HvT7dnL/wjdnYqB4Y2",
+      "name": "12345678",
+      "id": 1
+    },
+    {
+      "email": "loc@gmail.com",
+      "password": "$2a$10$C7TjkXlBt2VZsNECUglahuG79bK6Zv2UlwOkAIWL2aBD22bsVzay.",
+      "name": "1234567",
+      "id": 2
+    }
+  ]
+}
